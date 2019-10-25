@@ -1,0 +1,16 @@
+<!--Font sizes for tablets-->
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+	<!--These are for main activity-->
+	<dimen name="balance_text_size">100sp</dimen>
+	<dimen name="input_amount_text_size">55sp</dimen> 
+	<dimen name="dollar_sign_height">90sp</dimen> 
+	<dimen name="dollar_sign_width">90sp</dimen> 
+	<dimen name="margin_top">66sp</dimen> 
+
+
+    <!--These are for withdraw/deposit activities-->
+    <dimen name="confirm_text_size">80sp</dimen> 
+    <dimen name="new_balance_text_size">55sp</dimen> 
+</resources>
+

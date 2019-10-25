@@ -1,0 +1,19 @@
+<!--Font sizes for phones-->
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <!--These are for main activity-->
+    <dimen name="balance_text_size">45sp</dimen>
+    <dimen name="input_amount_text_size">30sp</dimen>
+    <dimen name="dollar_sign_height">63sp</dimen>
+    <dimen name="dollar_sign_width">65sp</dimen>
+    <dimen name="margin_top">44dp</dimen>
+
+    <!--These are for withdraw/deposit activities-->
+    <dimen name="confirm_text_size">32sp</dimen>
+    <dimen name="new_balance_text_size">36sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+</resources>
